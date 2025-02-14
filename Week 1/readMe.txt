@@ -1,2 +1,2 @@
-***Programming assignment - week 1**
+*Programming assignment - week 1*
 Complete the programming exercises below. This assignment can be submitted as a python program file or a Jupyter notebook. You will receive zero points for code that is copied from a classmate or the Internet. A second instance of academic dishonesty will result in a failing grade for the class. Attach a python program or Jupyter notebook with your solutions to these exercises. 
